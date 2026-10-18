@@ -1,0 +1,31 @@
+{
+  "recordType": "operator-created lifecycle fixture; not independent third-party evidence",
+  "recordId": "REPAIR_CIRCLE-1792366410",
+  "contractAddress": "0x8FBadc8eDFaDc25977381aAF9B2b2b50b688b666",
+  "transaction": "0x9586fe1df32bbada830624a005574b54b3961869d7fe10e7d44836345b3cf9b1",
+  "readback": {
+    "assessments": [],
+    "care_rule_url": "https://www.ifixit.com/Guide",
+    "diagnosis": "",
+    "digests": [],
+    "id": "REPAIR_CIRCLE-1792366410",
+    "item": "Shared wooden reading table with a loose cross brace",
+    "keeper": "0xad9c2fEc8a74efa02364A780BAd1936e255C3C25",
+    "observations": [],
+    "remedies": [
+      {
+        "id": "TIGHTEN",
+        "irreversibility": 5,
+        "text": "Tighten and mark the existing fasteners"
+      },
+      {
+        "id": "REPLACE",
+        "irreversibility": 35,
+        "text": "Replace the cross brace after measurement"
+      }
+    ],
+    "selected_remedy": "",
+    "state": "GATHERING",
+    "steward": "0x3333333333333333333333333333333333333333"
+  }
+}

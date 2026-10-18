@@ -1,0 +1,11 @@
+{
+  "account": "wakbowaa",
+  "network": "StudioNet",
+  "contractAddress": "0x8FBadc8eDFaDc25977381aAF9B2b2b50b688b666",
+  "deploymentTransaction": "0x00778af16aae9fa5661ae29290b14e485ae110f408651b2ba7ffd485fb8c68fa",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "cf5285579b355a831f310ef163fa9d2c9e6e30d432c9bc3dae133a6b3c99e6fa",
+  "sourceCommit": "e07b05fd04627b15d127c4816c895891b5ba1939",
+  "repository": "https://github.com/wakbowaa/repair-circle"
+}
